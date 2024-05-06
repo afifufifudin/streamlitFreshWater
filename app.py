@@ -40,7 +40,7 @@ destin = col2.selectbox(
 )
 
 durr = st.number_input(
-    "Trip Duration",
+    "Trip Duration (in Days)",
     value=None,
     placeholder="Insert estimated trip duration here...!",
     help="Number only",
