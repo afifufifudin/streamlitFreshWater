@@ -22,7 +22,7 @@ city = [
 ]
 
 
-st.title(":ship: Freshwater supply prediction💦")
+st.title("Freshwater supply prediction")
 st.caption(
     "This application can help you estimate the amount of freshwater needed on the trip"
 )
