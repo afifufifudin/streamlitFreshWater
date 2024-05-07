@@ -21,7 +21,7 @@ city = [
     "Tarakan",
 ]
 
-st.image(".\spil_logo.png")
+st.image("https://github.com/afifufifudin/streamlitFreshWater/blob/main/image/spil_logo.png")
 st.title("Freshwater supply prediction")
 st.caption(
     "This application can help you estimate the amount of freshwater needed on the trip"
